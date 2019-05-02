@@ -7,7 +7,7 @@ import javax.swing.*;
 import java.util.*;
 import java.awt.font.*;
 
-//Run in 500x500 Applet
+//Run in 1051x720 Applet
 
 public class Bunny_Hunter extends Applet implements Runnable, KeyListener, MouseListener {
 	
